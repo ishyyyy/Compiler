@@ -1,0 +1,76 @@
+
+
+Version:	3.50
+CmdLine:	C:\Compiler\compiler.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Compiler\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.008
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;D:\Git\cmd;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17.0.2\bin;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files (x86)\Flash Magic;C:\msys64\mingw64\bin;C:\Users\ishur\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ishur\Documents\MinGW\bin;C:\Users\ishur\AppData\Local\GitHubDesktop\bin;C:\Users\ishur\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;;C:\Users\ishur\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;D:\Git\cmd;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17.0.2\bin;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files (x86)\Flash Magic;C:\msys64\mingw64\bin;;C:\PROGRA~2\FLASHM~1;C:\Program Files\Java\jdk-17.0.2\bin
+JRE paths:	;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;D:\Git\cmd;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17.0.2\bin;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files (x86)\Flash Magic;C:\msys64\mingw64\bin;C:\Users\ishur\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ishur\Documents\MinGW\bin;C:\Users\ishur\AppData\Local\GitHubDesktop\bin;C:\Users\ishur\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;;C:\Users\ishur\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;D:\Git\cmd;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17.0.2\bin;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files (x86)\Flash Magic;C:\msys64\mingw64\bin;;C:\PROGRA~2\FLASHM~1;C:\Program Files\Java\jdk-17.0.2\bin
+Check launcher:	C:\Program Files (x86)\VMware\VMware Player\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	D:\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17.0.2\bin\javaw.exe (OK)
+Version string: 1.017.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Compiler\compiler.exe"
+Args length:	31/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Compiler\compiler.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Compiler\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.008
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;D:\Git\cmd;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17.0.2\bin;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files (x86)\Flash Magic;C:\msys64\mingw64\bin;C:\Users\ishur\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ishur\Documents\MinGW\bin;C:\Users\ishur\AppData\Local\GitHubDesktop\bin;C:\Users\ishur\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;;C:\Users\ishur\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;D:\Git\cmd;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17.0.2\bin;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files (x86)\Flash Magic;C:\msys64\mingw64\bin;;C:\PROGRA~2\FLASHM~1;C:\Program Files\Java\jdk-17.0.2\bin
+JRE paths:	;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;D:\Git\cmd;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17.0.2\bin;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files (x86)\Flash Magic;C:\msys64\mingw64\bin;C:\Users\ishur\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ishur\Documents\MinGW\bin;C:\Users\ishur\AppData\Local\GitHubDesktop\bin;C:\Users\ishur\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.3\bin;;C:\Users\ishur\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;D:\Git\cmd;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17.0.2\bin;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files (x86)\Flash Magic;C:\msys64\mingw64\bin;;C:\PROGRA~2\FLASHM~1;C:\Program Files\Java\jdk-17.0.2\bin
+Check launcher:	C:\Program Files (x86)\VMware\VMware Player\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	D:\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17.0.2\bin\javaw.exe (OK)
+Version string: 1.017.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Compiler\compiler.exe"
+Args length:	31/32768 chars
+Exit code:	0
